@@ -1,0 +1,75 @@
+
+
+### 1 Exploratory Data Analysis 1
+- Elements of Structured Data
+  - Further Reading
+- Rectangular Data p5
+  - Data Frames and Indexes p6
+  - Non-rectangular data structures p7
+  - Further Reading p8
+- Estimates of Location p8
+  - Mean p9
+  - Median and Robust Estimates p10
+  - Example: Location Estimates of Population and Murder Rates p12
+  - Further Reading p13
+- Estimates of Variability p13
+  - Standard Deviation and Related Estimates p15
+  - Estimates Based on Percentiles p17
+  - Example: Variability Estimates of State Population p18
+  - Further Reading p19
+- Exploring the Data Distribution p19
+  - Percentiles and Boxplots p20
+  - Frequency Table and Histograms p21
+  - Density Estimates p24
+  - Further Reading p26
+- Exploring Binary and Categorical Data p26
+  - Mode p28
+  - Expected Value p28
+  - Further Reading p29
+- Correlation p29
+  - Scatterplots p32
+  - Further Reading p34
+- Exploring Two or More Variables p34
+  - Hexagonal Binning and Contours (Plotting Numeric versus Numeric Data) p34
+  - Two Categorical Variables p37
+  - Categorical and Numerical Data p38
+  - Visualizing Multiple Variables p40
+  - Further Reading p42
+- Summary p42
+
+#### 2. Data and Sampling Distributions p43
+- Random Sampling and Sample Bias p44
+  - Bias p46
+  - Random Selection p47
+  - Size Versus Quality: When does size matter? p48
+  - Sample Mean versus Population Mean p49
+  - Further Reading p50
+- Selection Bias p51
+  - Regression to the Mean p53
+  - Further Reading p53
+- Sampling Distribution of a Statistic p53
+  - Central Limit Theorem p55
+  - Standard Error p56
+  - Further Reading p57
+- The Bootstrap p57
+  - Resampling versus Bootstrapping p60
+  - Further Reading p60
+- Confidence Intervals p61
+  - Further Reading p63
+- Normal Distribution p64
+  - Standard Normal and QQ-Plots p65
+- Long-Tailed Distributions p67
+  - Further Reading p67
+- Student's t-Distribution p69
+  - Further Reading p72
+- Binomial Distribution p72
+  - Further Reading p74
+- Poisson and Related Distributions p74
+  - Poisson Distributions p75
+  - Exponential Distribution p75
+  - Estimating the failure rate p76
+- Weibull Distribution p76
+  - Further Reading p77
+- Summary p77
+
+
