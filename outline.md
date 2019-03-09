@@ -72,4 +72,180 @@
   - Further Reading p77
 - Summary p77
 
+#### 3. Statistical Experiments and Significance Testing p79
+- A / B Testing p80
+  - Why Have a Control Group? p82
+  - Why Just A / B? Why not C / D? p83
+  - For Further Reading p84
+- Hypothesis Tests p85
+  - The Null Hypothesis p86
+  - Alternative Hypothesis p86
+  - One-Way, Two-Way Hypothesis Test p87
+  - Further Reading p88
+- Resampling p88
+  - Permutation Test p88
+  - Example: Web Stickines p89
+  - Exhaustive and Bootstrap Permutation Test p92
+  - Permutation Tests: The Bottom Line for Data Science p93
+  - For Further Reading p93
+- Statistical Significance and P-Values p93
+  - P-Value p96
+  - Alpha p96
+  - Type 1 and Type 2 Errors p98
+  - Data Science and P-Values p98
+  - Further Reading p99
+- t-Tests p99
+  - Further Reading p101
+- Multiple Testing p101
+  - Further Reading p104
+- Degrees of Freedom p104
+  - Further Reading p106
+- ANOVA p106
+  - F-Statistic p109
+  - Two-Way ANOVA p110
+  - Further Reading p111
+- Chi-Square Test p111
+  - Chi-Square Test: A Resampling Approach p112
+  - Chi-Squared Test: Statistical Theory p114
+  - Fisher's Exact Test p115
+  - Relevance for Data Science p117
+  - Further Reading p118
+- Multi-Arm Bandit Algorithm p119
+  - Further Reading p122
+- Power and Sample Size p122
+  - Sample Size p123
+  - Further Reading p125
+- Summary p125
+
+#### 4. Regression and Prediction p127
+- Simple Linear Regression p127
+  - The Regression Equation p129
+  - Fitted Values and Residuals p131
+  - Least Squares p131
+  - Prediction versus Explanation (Profiling) p133
+  - Further Reading p134
+- Multiple Linear Regression p134
+  - Example: King County Housing Data p135
+  - Assessing the Model p136
+  - Cross-Validation p138
+  - Model Selection and Stepwise Regression p139
+  - Weighted Regression p141
+- Prediction Using Regression p142
+  - The Dangers of Extrapolation p143
+  - Confidence and Prediction Intervals p143
+- Factor Variables in Regression p145
+  - Dummy Variables Representation p145
+  - Factor Variables with Many Levels p147
+  - Ordered Factor Variables p149
+- Interpreting the Regression Equation p150
+  - Correlated Predictors p150
+  - Multicolinearity p151
+  - Confounding Variables p152
+  - Interactions and Main Effects p153
+- Testing the Assumptions: Regression Diagnostics p155
+  - Outliers p156
+  - Influential Values p158
+  - Heteroskedasticity, Non-Normality and Correlated Errors p161
+  - Partial Residual Plots and Nonlinearity p164
+- Polynomial and Spline Regression p166
+  - Polynomial p167
+  - Splines p168
+  - Generalized Additive Models p170
+  - Further Reading p172
+- Summary p172
+
+#### 5. Classification p173
+- Naive Bayes p174
+  - Why Exact Bayesian Classification is Impractical? p175
+  - The Naive Solution p176
+  - Numberic Predictor Variables p178
+  - Further Reading p178
+- Discriminant Analysis p179
+  - Covariance Matrix p180
+  - Fisher's Linear Discriminant p180
+  - A Simple Example p181
+  - Further Reading p183
+- Logistic Regression p184
+  - Logistic Response Function and Logit p184
+  - Logistic Regression and the GLM p186
+  - Generalized Linear Models p187
+  - Predicted Values from Logistic Regression p188
+  - Interpreting the Coefficients and Odds Ratio p188
+  - Linear and Logistic Regression: Similarities and Differences p190
+  - Assessing the Model p191
+  - Further Reading p194
+- Evaluating Classification Models p194
+  - Confusion Matrix p195
+  - The Rare Class Problem p196
+  - Precison, Recall, and Specifity p197
+  - ROC Curve p198
+  - AUC p200
+  - Lift p201
+  - Further Reading p202
+- Strategies for Imbalanced Data p203
+  - Undersampling p204
+  - Oversampling and Up/Down Weighting p204
+  - Data Generation p205
+  - Cost-Based Classification p206
+  - Exploring the Predictions p206
+  - Further Reading p208
+- Summary p208
+
+#### 6. Statistical Machine Learning p209
+- K-Nearest Neighbor p210
+  - A Small Example: Predicting Load Default p211
+  - Distance Metrics p213
+  - One Hot Encoder p214
+  - Standardization (Normalization, Z-Scores) p215
+  - Choosing K p217
+  - KNN as a Feature Engine p218
+- Tree Models p219
+  - A Simple Example p221
+  - The Recursive Partitioning Algorithm p222
+  - Measuring Homogeneity or Impurity p224
+  - Stopping the Tree from Growing p225
+  - Predicting a Continuous Value p227
+  - How Trees are Used p227
+  - Further Reading p228
+- Bagging and the Random Forest p228
+  - Bagging p230
+  - Random Forest p230
+  - Variable Importance p233
+  - Hyperparameters p236
+- Boosting p237
+  - The Boosting Algorithm p238
+  - XGBoost p239
+  - Regularization: Avoiding Overfitting p241
+  - Hyperparameters and Cross-Validation p245
+  - Summary p247
+
+#### 7. Unsupervised Learning p249
+- Principal Components Analysis p250
+  - A Simple Example 251
+  - Computing the Principal Components p254
+  - Interpreting Principal Components p254
+- Further Reading p257
+- K-Means Clustering p257
+  - A Simple Example p258
+  - K-Means Algorithm p260
+  - Interpreting the Clusters p261
+  - Selecting the Number of Clusters p263
+- Hierarchical Clustering p265
+  - A Simple Example p266
+  - The Dendrogram p266
+  - The Agglomerative Algorithm p268
+  - Measures of Dissimilarity p268
+- Model-Based Clustering p270
+  - Multivariate Normal Distribution p270
+  - Mixture of Normals p272
+  - Selecting the Number of Clusters p274
+- Further Reading p276
+- Scaling and Categorical Variables p276
+  - Scaling the Variables p277
+  - Dominant Variables p278
+  - Categorical Data and Gower's Distance p280
+  - Problems with Clustering Mixed Data p283
+- Summary p284
+
+
 
